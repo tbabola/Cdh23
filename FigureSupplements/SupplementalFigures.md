@@ -4,8 +4,7 @@ contained within the main figure folders.
 More specifically,
 
 ### Supplemental Figure 1:
-**A-B**: Figure 1, [here](/Figure1_Widefield/
-Fig1_DEGH_SF1AB_Individual_examples.ipynb)
+**A-B**: Figure 1, [here](/Figure1_Widefield/Fig1_DEGH_SF1AB_Individual_examples.ipynb)
 
 C: Figure 1, in Fig1_FI_SF1C_threshold_analysis.ipynb
 D-E: Figure 6,  in Fig6_ABDE_SF1DE_6_months_data.ipynb
