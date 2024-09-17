@@ -7,3 +7,5 @@
 *.docx
 *.xlsx
 *.tmp
+
+!Statistics.xlsx
