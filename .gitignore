@@ -8,4 +8,5 @@
 *.xlsx
 *.tmp
 
+Data.zip
 !Statistics.xlsx
