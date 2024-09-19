@@ -29,7 +29,9 @@ class groupData():
                 homedir = home / mouse['Mouse'] / "Widefield"
                 DOB = mouse['DOB']
                 DOB = datetime.datetime.strptime(DOB,"%m/%d/%Y") 
-                path = list(homedir.glob('[0-9]' * 6))[0]
+                path = list(homedir.glob('[0-9]' * 6))
+                path.sort()
+                path = path[0]
                 data = path / analysis_file
                 if data.exists(): 
                     file = open(str(data),'rb')
